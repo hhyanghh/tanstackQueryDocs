@@ -86,3 +86,6 @@ function Example() {
 
 
 ```
+
+_c.f. 전체 페이지 캡쳐화면_
+![이미지2](/img/day2.png)
