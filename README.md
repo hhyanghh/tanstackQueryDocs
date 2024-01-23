@@ -13,3 +13,4 @@
 | day1 | 2024.1.12(금) | [Main](0_Main/main.md)                                          | ✅  |
 | day2 | 2024.1.15(월) | [Overview](1_GettingStarted/overview.md)                        | ✅  |
 | day3 | 2024.1.22(월) | [Important Defaults](2_GuidesAndConcepts/important_defaults.md) | ✅  |
+| day4 | 2024.1.23(화) | [Queries](2_GuidesAndConcepts/queries.md)                       | ✅  |
