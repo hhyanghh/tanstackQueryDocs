@@ -15,3 +15,4 @@
 | day3 | 2024.1.22(월) | [Important Defaults](2_GuidesAndConcepts/important_defaults.md) |
 | day4 | 2024.1.23(화) | [Queries](2_GuidesAndConcepts/queries.md)                       |
 | day5 | 2024.2.13(화) | [Query Keys](2_GuidesAndConcepts/query_keys.md)                 |
+| day6 | 2024.3.09(토) | [mutations](2_GuidesAndConcepts/mutations.md)                   |
